@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on<br><br>* Beginner projects in web development and networking<br>* Small practice apps to improve my coding skills<br><br>👯 I’m looking to collaborate on<br><br>* Beginner-friendly projects<br>* Open-source contributions<br><br>🤝 I’m looking for help with<br><br>* Learning programming and cybersecurity basics<br>* Building real-world projects<br><br>🌱 I’m currently learning<br><br>* Python / JavaScript basics<br>* Networking fundamentals<br>* Introduction to cybersecurity<br><br>💬 Ask me about<br><br>* What I’m learning and practicing<br>* Basic coding and networking concepts<br><br>⚡ Fun fact<br><br>* I’m just starting my tech journey and learning something new every day 🚀<br>
+I'm a passionate **Python/Django Developer** specializing in building scalable web applications, SaaS platforms, and enterprise management systems.
 
 
 ## 🌐 Socials:
