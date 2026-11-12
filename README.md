@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm a passionate **Python/Django Developer** specializing in building scalable web applications, SaaS platforms, and enterprise management systems.
+I'm an enthusiastic IT student learning **Python and Django** and exploring the world of web development. I'm interested in building websites, web applications, and practical software solutions.Currently, I'm improving my skills in Python, Django, JavaScript, React, and SQL while working on hands-on projects.I'm passionate about learning new technologies, solving problems, and growing as a developer.
 
 
 ## 🌐 Socials:
